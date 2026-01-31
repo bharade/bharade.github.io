@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my full CV here. (Link your PDF file here)
+[Download PDF version here](/files/Aditya_CV.pdf)
 
 Education
 ======
@@ -21,7 +21,7 @@ Education
     *   Indian Institute of Technology Kharagpur (2020 - 2024)
     *   *Dual Degree Program*
 
-    
+
 Work Experience
 ======
 **IHI Corporation** | *AI Application Analyst (Technology Planning Dept, Corporate R&D)*
