@@ -13,10 +13,15 @@ You can download a PDF copy of my full CV here. (Link your PDF file here)
 
 Education
 ======
-*   **Indian Institute of Technology Kharagpur** (Nov 2020 - June 2025)
-    *   Dual B.Tech (Hons.) & M.Tech in Aerospace Engineering with Specialisation in AI
+*   **M.Tech in Aerospace Engineering** with Specialisation in AI
+    *   Indian Institute of Technology Kharagpur (2024 - 2025)
     *   **CGPA:** 8.84/10
 
+*   **B.Tech (Hons.) in Aerospace Engineering** with Specialisation in AI
+    *   Indian Institute of Technology Kharagpur (2020 - 2024)
+    *   *Dual Degree Program*
+
+    
 Work Experience
 ======
 **IHI Corporation** | *AI Application Analyst (Technology Planning Dept, Corporate R&D)*
