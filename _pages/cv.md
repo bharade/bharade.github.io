@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version here](/files/Aditya_CV.pdf)
+[Download PDF version here](/files/Aditya_Bharade_CV.pdf)
 
 Education
 ======
