@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a PDF copy of my full CV here. (Link your PDF file here)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*   **Indian Institute of Technology Kharagpur** (Nov 2020 - June 2025)
+    *   Dual B.Tech (Hons.) & M.Tech in Aerospace Engineering with Specialisation in AI
+    *   **CGPA:** 8.84/10
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**IHI Corporation** | *AI Application Analyst (Technology Planning Dept, Corporate R&D)*
+*Oct 2025 - Present | Yokohama, Tokyo, Japan*
+*   Architected a **techno-economic simulation pipeline** in Python to benchmark SAF pathways, automating sensitivity analysis to identify manufacturing process optimizations yielding a **6.2% cost reduction**.
+*   Engineered a **time-series forecasting ensemble** (XGBoost, LightGBM) to model complex $CH_4$ reaction dynamics, achieving **98% prediction accuracy** on 10-minute horizons.
+*   Spearheading R&D on **Agentic CAD Workflows** to mitigate spatial hallucinations via structured **Chain-of-Thought** reasoning.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**École Polytechnique Fédérale de Lausanne (EPFL)** | *AI Researcher*
+*Apr 2025 - Sept 2025 | Lausanne, Switzerland*
+*   *Guide: Prof. Olga Fink (IMOS Lab)*
+*   Developed a novel physics-informed **Graph Neural Network** pipeline for **fault localisation** using temporal Lamb waves.
+*   Processed **71,000+ time-series entries** and constructed fully connected graphs using **PyTorch Geometric**.
+*   **Enhanced generalisation by 35%** on unseen faults through a novel **attention-based spectral grid localiser**.
+*   Implemented **DeepMind's SOTA Graph Network Simulator**, performing temporal rollout for increased adaptability.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+**IHI Corporation** | *AI R&D Intern*
+*May 2024 - July 2024 | Tokyo, Japan*
+*   Demonstrated a **20% carrying cost reduction** and **50% stockouts reduction** using CNNs for inventory management.
+*   Implemented a predictive maintenance tool using **XGBoost, LSTM and Autoencoders**, achieving a 0.89 F1-score.
+*   Developed a strategic roadmap for IT and business integration for the hybrid aircraft program.
+
+**CSIR-National Aerospace Laboratories** | *Research Intern*
+*May 2023 - June 2023 | Bengaluru, India*
+*   Deployed Stanford University's **SU2 solver (C++)** to study pressure fluctuations over launch vehicles.
+*   Investigated transonic flow behavior, validating wind tunnel results with numerical computations (31.2% increase in pressure coefficient observed).
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*   **Core AI:** Graph Neural Networks (GNNs), JAX, Flax, PyTorch Geometric, Transformers, Time-Series Forecasting
+*   **Engineering:** Docker, AWS (Machine Learning Specialty), CI/CD, Git
+*   **Physics:** Computational Fluid Dynamics (CFD), SU2, Aeroelasticity
+*   **Languages:** Python, C++, MATLAB
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
