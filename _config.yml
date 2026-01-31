@@ -23,7 +23,7 @@ repository               : "bharade/bharade.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://bharade.github.io/images/IMG_0057_copy.jpg"
+  avatar           : "https://bharade.github.io/images/IMG_0057.jpg"
   name             : "Aditya Bharade"
   pronouns         : # example: "she/her"  
   bio              : "AI Engineer specializing in Deep Learning for Industry"
