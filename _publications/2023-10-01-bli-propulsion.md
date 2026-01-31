@@ -5,6 +5,7 @@ permalink: /publication/2023-10-01-bli-propulsion
 excerpt: 'This paper proposes a strategic design approach for Boundary Layer Ingestion (BLI) propulsion systems in hybrid aircraft.'
 date: 2023-12-07
 venue: '8th Gas Turbine India Conference, ASME International Gas Turbine Institute'
+category: conferences
 paperurl: 'https://doi.org/10.1115/GTINDIA2023-118409'
 citation: 'Aditya Bharade. (2023). &quot;A Strategic Engine Design Approach for BLI Propulsion System Based Hybrid Aircraft.&quot; <i>8th Gas Turbine India Conference, ASME IGTI</i>.'
 ---
