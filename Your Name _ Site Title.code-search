@@ -1,0 +1,9 @@
+# Query: Your Name / Site Title
+# ContextLines: 1
+
+1 result - 1 file
+
+_config.yml:
+  11  site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+  12: title                    : "Aditya Bharade"
+  13  title_separator          : "-"
