@@ -9,7 +9,7 @@ collection: portfolio
 **Stack:** Python, XGBoost, LightGBM, LLMs (Chain-of-Thought)
 
 ## Overview
-Leading the digital transformation of industrial modeling pipelines. My work bridges the gap between traditional engineering simulations and modern AI, focusing on Sustainable Aviation Fuel (SAF) benchmarking and Agentic Design.
+Leading the digital transformation of industrial modeling pipelines. My work bridges the gap between traditional engineering simulations and modern AI, focusing on Sustainable Aviation Fuel (SAF) benchmarking and Agentic Design. I am currently spearheading the technical roadmap for **IHI’s Pilot Project on Physical AI**, bridging the gap between large-scale Foundation Models and physical industrial hardware. My work focuses on overcoming the "Sim-to-Real" gap and enabling autonomous decision-making in complex engineering environments.
 
 ## Key Technical Contributions
 *   **Agentic CAD:** Spearheading R&D on **Agentic CAD Workflows** to mitigate spatial hallucinations in Large Language Models using structured **Chain-of-Thought (CoT)** reasoning.
