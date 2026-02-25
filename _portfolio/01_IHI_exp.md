@@ -1,4 +1,3 @@
-
 ---
 title: "Agentic CAD & Techno-Economic Simulation"
 excerpt: "Developing **Agentic Workflows** for CAD and **Time-Series Ensembles** for industrial yield optimization at IHI Corp.<br/><img src='/images/ihi_saf.png'>"

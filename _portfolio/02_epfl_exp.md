@@ -1,4 +1,6 @@
-g **DeepMind's Graph Network Simulator** for damage localization in composites.<br/><img src='/images/epfl_gnn.png'>"
+---
+title: "Physics-Informed GNNs for Structural Health"
+excerpt: "Developed at **EPFL**. Implementing **DeepMind's Graph Network Simulator** for damage localization in composites.<br/><img src='/images/epfl_gnn.png'>"
 collection: portfolio
 ---
 

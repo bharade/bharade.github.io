@@ -1,17 +1,16 @@
 ---
-title: "Computational Fluid Dynamics with SU2"
-excerpt: "Simulating transonic flows using the **SU2 Solver (C++)** and numerical validation.<br/><img src='/images/nal_cfd.png'>"
+title: "AI for Hybrid Aircraft Supply Chain"
+excerpt: "Applying **CNNs** and **LSTMs** for inventory management and predictive maintenance.<br/><img src='/images/ihi_hybrid.png'>"
 collection: portfolio
 ---
 
-**Role:** Research Intern | CSIR-NAL (Bengaluru)
-**Stack:** C++, SU2 Solver, Python, Gmsh
+**Role:** AI R&D Intern | IHI Corporation (Tokyo)
+**Stack:** CNNs, LSTMs, Autoencoders
 
 ## Overview
-Investigated the behavior of transonic flow over launch vehicles, focusing on the coupling between cone angle variations and Mach numbers.
+Worked within the Hybrid Aircraft Program to integrate modern AI into supply chain and maintenance operations.
 
 ## Key Technical Contributions
-*   **High-Fidelity Simulation:** Deployed Stanford University’s **SU2 solver (C++)** to study pressure fluctuations and counter-rotating vortices in 3D.
-*   **Numerical Validation:** Validated wind tunnel results with numerical computations, ensuring physics consistency.
-*   **Data Analysis:** Processed pressure coefficient distributions over payload and boattail structures.
-*   **Impact:** Observed a **31.2% increase in pressure coefficient** on decreasing cone angle from 15° to 25° at Mach 0.94.
+*   **Inventory Optimization:** Demonstrated a **20% carrying cost reduction** and **50% stockouts reduction** using **Convolutional Neural Networks (CNNs)** to model demand patterns.
+*   **Predictive Maintenance:** Implemented a multi-modal tool using **XGBoost, LSTM, and Autoencoders**, achieving a **0.89 F1-score** on anomaly detection tasks.
+*   **Strategic Integration:** Developed a roadmap for integrating these AI models into the 20-year business timeline for hybrid aircraft development.
