@@ -1,6 +1,6 @@
 ---
 title: "AI for Hybrid Aircraft Supply Chain"
-excerpt: "Applying **CNNs** and **LSTMs** for inventory management and predictive maintenance.<br/><img src='/images/ihi_hybrid.png'>"
+excerpt: "Applying **CNNs** and **LSTMs** for inventory management and predictive maintenance.<br/><img src='/images/ihi-intern.jpeg'>"
 collection: portfolio
 ---
 
